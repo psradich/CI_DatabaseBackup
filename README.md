@@ -33,3 +33,5 @@ to run a backup
 $this->backupdb->backup();
 
 That's it your Data is safe!!
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/psradich/CI_DatabaseBackup/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
