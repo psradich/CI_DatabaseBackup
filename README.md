@@ -1,4 +1,4 @@
-## CodeIgniter Data base backup Model
+## CodeIgniter Database backup Model
 
 This model can back up your DB and save it to the server as a .zip file.
 Optionaly it can also save the file off site via FTP
