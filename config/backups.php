@@ -13,12 +13,13 @@ $config['backup_file_name'] = 'backup-';
 $config['backup_local_path'] = './dbbackups/';
 
 
+//Transfer DB Backups to FTP
+//If set to false FTP transfer will not be attempted
+$config['backup_use_ftp'] = TRUE;
+
+
 // Remote path on the FTP server to save the file
 $config['backup_remote_path'] = '/database/';
-
-
-//Transfer DB Backups to FTP
-$config['backup_use_ftp'] = TRUE;
 
 
 //FTP Connection info
